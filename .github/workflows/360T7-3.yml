@@ -10,7 +10,7 @@
 #添加自用插件
 #
 
-name: 360_t7-插件
+name: 360_t7-插件(SSRP)
 
 on:
   repository_dispatch:
